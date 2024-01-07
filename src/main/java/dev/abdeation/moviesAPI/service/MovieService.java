@@ -2,7 +2,6 @@ package dev.abdeation.moviesAPI.service;
 
 import dev.abdeation.moviesAPI.documents.Movie;
 import dev.abdeation.moviesAPI.repository.MovieRepository;
-import org.bson.types.ObjectId;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
